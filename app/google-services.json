@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "715487152126",
+    "firebase_url": "https://weatherlivedata-default-rtdb.firebaseio.com",
+    "project_id": "weatherlivedata",
+    "storage_bucket": "weatherlivedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715487152126:android:10c256203e90e3bf4962af",
+        "android_client_info": {
+          "package_name": "com.example.agribot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715487152126-n2soaa4kdo63titra07hej85c3gt3g3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgIEQMcL0qd14ag50g9Nf7lh_eYKn-OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715487152126-n2soaa4kdo63titra07hej85c3gt3g3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715487152126:android:c4df5389ba2e17b94962af",
+        "android_client_info": {
+          "package_name": "com.example.liveweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715487152126-n2soaa4kdo63titra07hej85c3gt3g3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgIEQMcL0qd14ag50g9Nf7lh_eYKn-OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715487152126-n2soaa4kdo63titra07hej85c3gt3g3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
